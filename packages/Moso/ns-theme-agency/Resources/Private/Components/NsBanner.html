@@ -11,10 +11,10 @@
                     <div class="intro-heading text-uppercase">{content.subtitle}</div>
                 </f:if>
                 <f:if condition="{content.btntext} && {content.scrollid}">
-                    <f:link.typolink parameter="#{content.scrollid}"
-                        class="btn btn-primary btn-xl text-uppercase js-scroll-trigger">
-                        {content.btntext}
-                    </f:link.typolink>
+                    <f:link.typolink parameter="https://norf.top/public/{content.scrollid}" target="_self"
+                    class="btn btn-primary btn-xl text-uppercase js-scroll-trigger">
+                    {content.btntext}
+                </f:link.typolink>
                 </f:if>
             </div>
         </div>

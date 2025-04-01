@@ -1,5 +1,17 @@
+background_color: '#3a85e6'
 base: 'https://moso1.ddev.site/'
-errorHandling: {  }
+dependencies:
+  - nitsan-ns-basetheme/ns_basetheme
+display: standalone
+enabled: false
+entry_point: /
+icon: /fileadmin/pwa/pwa.png
+icon_144: /fileadmin/pwa/pwa.png
+icon_144_type: image/png
+icon_192: /fileadmin/pwa/pwa-192.png
+icon_192_type: image/png
+icon_512: /fileadmin/pwa/pwa-512.png
+icon_512_type: image/png
 languages:
   -
     title: English
@@ -9,5 +21,16 @@ languages:
     locale: en_US.UTF-8
     navigationTitle: English
     flag: us
+name: 'TYPO3 Agency'
 rootPageId: 1
-routes: {  }
+scope: /
+short_name: NITSAN
+ss_icon_desktop: /fileadmin/pwa/screenshot.jpg
+ss_icon_desktop_type: image/jpg
+ss_icon_mobile: /fileadmin/pwa/screenshot-mobile.jpg
+ss_icon_mobile_type: image/jpg
+ss_icon_size_desktop: 2880x2880
+ss_icon_size_mobile: 2880x2880
+start_url: /
+theme_color: '#3a85e6'
+websiteTitle: ''

@@ -40,7 +40,7 @@ return [
             'offlineMode' => '0',
         ],
         'ns_basetheme' => [
-            'enable_mask_flexform' => '0',
+            'enable_mask_flexform' => '1',
         ],
     ],
     'FE' => [

@@ -57,6 +57,9 @@
             <trans-unit id="general.twitter">
                 <source>Twitter Link</source>
             </trans-unit>
+            <trans-unit id="general.instagram">
+                <source>Instagram Link</source>
+            </trans-unit>
             <trans-unit id="general.facebook">
                 <source>Facebook Link</source>
             </trans-unit>

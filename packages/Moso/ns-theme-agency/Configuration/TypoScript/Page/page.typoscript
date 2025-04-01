@@ -8,6 +8,7 @@ plugin {
             logo = {$ns_basetheme.website.settings.logo}
             logo_text = {$ns_basetheme.website.settings.logo_text}
             seo_twitter_link = {$ns_basetheme.website.settings.seo_twitter_link}
+            seo_instagram_link = {$ns_basetheme.website.settings.seo_instagram_link}
             seo_facebook_link = {$ns_basetheme.website.settings.seo_facebook_link}
             seo_linkedin_link = {$ns_basetheme.website.settings.seo_linkedin_link}
             googleanalytics = {$ns_basetheme.website.settings.googleanalytics}
