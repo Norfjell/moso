@@ -12,7 +12,8 @@ return [
         'Connections' => [
             'Default' => [
                 'charset' => 'utf8mb4',
-                'dbname' => 'db',
+                'dbname' => 'busines2_db',
+                // 'dbname' => 'db',
                 'defaultTableOptions' => [
                     'charset' => 'utf8mb4',
                     'collation' => 'utf8mb4_unicode_ci',
@@ -24,8 +25,8 @@ return [
                 // 'user' => 'db',
                 'driver' => 'mysqli',
                 'host' => 'localhost',
-                'password' => '-Ut28pS8l.',
-                'user' => 'busines2_typo843',
+                'password' => 'Lindick89!',
+                'user' => 'busines2_db',
             ],
         ],
     ],
